@@ -1,6 +1,13 @@
 # HelloReactNative
 Ứng dụng HelloWorld trong React Native
 
+# Mục tiêu bài tập
+- Cài đặt thành công Nodejs
+- Cài đặt thành công Android Studio (Windows)
+- Build được ứng dụng react native đầu tiên : HelloWorld
+
+# Start
+
 Trong bài hướng dẫn đầu tiên này, mình sẽ hướng dẫn các bạn từng bước để tạo một 
 ứng dụng HelloReactNative.
 
