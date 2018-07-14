@@ -48,4 +48,4 @@ nếu chạy lệnh start thì bạn phải tự build App bằng Android Studio
 #### Bước 5: 
 Đón nhận kết quả từ màn hình mobile hoặc emulator
 
-![alt]()
+![alt](https://github.com/anhtbok92/HelloReactNative/blob/master/img/react_native_hello_world.PNG)
