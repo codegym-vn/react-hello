@@ -1,5 +1,7 @@
 # HelloReactNative
 Ứng dụng HelloWorld trong React Native
+<br />
+Mã nguồn HelloReactNative được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
 
 # Mục tiêu bài tập
 - Cài đặt thành công Nodejs
